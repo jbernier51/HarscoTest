@@ -1,6 +1,6 @@
 ﻿CREATE TABLE [Harsco].[DimCustomer] (
     [CustomerKey]            INT            IDENTITY (1, 1) NOT NULL,
-    [CustomerNumber]         NVARCHAR (100) NULL,
+    [CustomerNumber]         NVARCHAR (110) NULL,
     [CustomerName]           NVARCHAR (100) NULL,
     [CustomerAccountNumber]  NVARCHAR (100) NULL,
     [CustomerAccountName]    NVARCHAR (100) NULL,
