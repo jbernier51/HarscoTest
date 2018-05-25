@@ -1,7 +1,7 @@
 ﻿CREATE TABLE [Harsco].[DimCustomerLocation] (
     [CustomerLocationKey]    INT            IDENTITY (1, 1) NOT NULL,
     [CustomerKey]            INT            NOT NULL,
-    [CustomerLocationNumber] NVARCHAR (100) NULL,
+    [CustomerLocationNumber] NVARCHAR (110) NULL,
     [CustomerLocationName]   NVARCHAR (100) NULL,
     [Address1]               VARCHAR (200)  NULL,
     [Address2]               VARCHAR (200)  NULL,
