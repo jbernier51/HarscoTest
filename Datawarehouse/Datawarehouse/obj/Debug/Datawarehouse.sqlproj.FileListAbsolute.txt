@@ -1,0 +1,8 @@
+C:\Users\jbernier\Source\Repos\Datawarehouse\Datawarehouse\Datawarehouse\bin\Debug\Datawarehouse.dacpac
+C:\Users\jbernier\Source\Repos\Datawarehouse\Datawarehouse\Datawarehouse\obj\Debug\Datawarehouse.sqlprojResolveAssemblyReference.cache
+C:\Users\jbernier\Source\Repos\Datawarehouse\Datawarehouse\Datawarehouse\obj\Debug\Model.xml
+C:\Users\jbernier\Source\Repos\Datawarehouse\Datawarehouse\Datawarehouse\obj\Debug\refactor.xml
+C:\Users\jbernier\Source\Repos\Datawarehouse\Datawarehouse\Datawarehouse\obj\Debug\postdeploy.sql
+C:\Users\jbernier\Source\Repos\Datawarehouse\Datawarehouse\Datawarehouse\obj\Debug\predeploy.sql
+C:\Users\jbernier\Source\Repos\Datawarehouse\Datawarehouse\Datawarehouse\obj\Debug\Datawarehouse.dll
+C:\Users\jbernier\Source\Repos\Datawarehouse\Datawarehouse\Datawarehouse\obj\Debug\Datawarehouse.pdb
