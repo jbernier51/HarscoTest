@@ -1,5 +1,5 @@
 ﻿
-/****** 20180420_MergeFactARAging_Failing - Prem : Changing the ReceivableType to a expression as per tammy request ******/
+/****** 20180421_MergeFactARAging_Failing - Prem : Changing the ReceivableType to a expression as per tammy request ******/
 
 
 create view [Harsco].[vFactARInvoices]
