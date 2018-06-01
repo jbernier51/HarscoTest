@@ -1,5 +1,5 @@
 ﻿CREATE TABLE [Harsco].[DimOrganization] (
-    [OrganizationKey]        INT            IDENTITY (1, 1) NOT NULL,
+    [OrganizationPK]        INT            IDENTITY (1, 1) NOT NULL,
     [Division]               NVARCHAR (50)  NOT NULL,
     [Region]                 NVARCHAR (50)  NULL,
     [Country]                NVARCHAR (50)  NULL,
