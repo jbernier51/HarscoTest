@@ -1,3 +1,3 @@
 ﻿CREATE LOGIN [HarscoDBUser]
-    WITH PASSWORD = N'u`ngXia:}kysPv`bxklabxg5msFT7_&#$!~<u7nO|m9u{ppr';
+    WITH PASSWORD = N'{ujdr{uta|ek,fhdbKeao<mzmsFT7_&#$!~<bC3fnnuxyxMr';
 

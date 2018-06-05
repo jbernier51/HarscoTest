@@ -1,3 +1,3 @@
 ﻿CREATE LOGIN [awisdom]
-    WITH PASSWORD = N'XjV7~n$uYQ%;n||g&&iak=!ymsFT7_&#$!~<svbxkfarbr:x';
+    WITH PASSWORD = N'{ehjddrz{utNa|e5akfp1XhSmsFT7_&#$!~<db_eaAozbnnu';
 

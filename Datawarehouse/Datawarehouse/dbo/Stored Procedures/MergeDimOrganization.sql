@@ -7,7 +7,7 @@
 
 
 
-CREATE OR ALTER  procedure [dbo].[MergeDimOrganization] 
+CREATE    procedure [dbo].[MergeDimOrganization] 
 /*******************************************************************************************************************
 ** Procedure Name: MergeDimOrganization
 ** Desc:

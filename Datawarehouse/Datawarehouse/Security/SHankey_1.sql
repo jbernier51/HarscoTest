@@ -1,3 +1,3 @@
 ﻿CREATE LOGIN [SHankey]
-    WITH PASSWORD = N'+cunPg2iak:Z5ysvbxka@XbxmsFT7_&#$!~<gunv|mu{pqFr';
+    WITH PASSWORD = N'{jdr{uta|e{kfShdbeao6Pz,msFT7_&#$!~<?Ipbnn_ux~yx';
 

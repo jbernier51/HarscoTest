@@ -8,7 +8,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectVersion>4.1</ProjectVersion>
     <ProjectGuid>{6fe5ee1e-ebd9-4e03-97f8-50a06eaab6ba}</ProjectGuid>
-    <DSP>Microsoft.Data.Tools.Schema.Sql.Sql140DatabaseSchemaProvider</DSP>
+    <DSP>Microsoft.Data.Tools.Schema.Sql.SqlAzureV12DatabaseSchemaProvider</DSP>
     <OutputType>Database</OutputType>
     <RootPath>
     </RootPath>
@@ -196,9 +196,6 @@
     <Build Include="dbo\Stored Procedures\CreateDimensionUnknownRowCustNote.sql" />
     <Build Include="dbo\Stored Procedures\CreateDimensionUnknownRow.sql" />
     <Build Include="dbo\Stored Procedures\CreateDimDateData.sql" />
-    <Build Include="Security\https___harscosqldbauditlog.blob.core.windows.net_sqldbauditlogs.sql" />
-    <Build Include="Security\External_Credential.sql" />
-    <Build Include="Security\External.sql" />
     <Build Include="Security\Harsco.sql" />
     <Build Include="Security\stg.sql" />
   </ItemGroup>

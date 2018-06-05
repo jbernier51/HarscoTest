@@ -1,3 +1,3 @@
 ﻿CREATE LOGIN [JBernier]
-    WITH PASSWORD = N'ungiaQ1k;yskvb&xkGau>bxQmsFT7_&#$!~<gu{nn|Gmu{p3';
+    WITH PASSWORD = N'k6d{jdr{!utav|ek1f:hdb2&msFT7_&#$!~<eaXozbnYj:nu';
 

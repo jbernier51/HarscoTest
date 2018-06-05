@@ -1,0 +1,22 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Alter
+       [Harsco].[DimCustomerLocation] (Table)
+       [Harsco].[vFactARInvoices] (View)
+
+** Supporting actions
+     Refresh
+       [Harsco].[vLKPCustomerCntryNA] (View)
+       [dbo].[MergeDimCustomerLocation] (Procedure)
+       [dbo].[MergeFactARInvoices] (Procedure)
+       [dbo].[RunDWTruncate] (Procedure)
+       [dbo].[RunDWLoad] (Procedure)
