@@ -1,2 +1,0 @@
-select *
-from harsco.DimCustomer
