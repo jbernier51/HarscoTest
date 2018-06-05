@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:DelayValidation="True"
+  DTS:ObjectName="DataWarehouse"
+  DTS:DTSID="{8A6DAF0E-5EA9-4518-A16E-EDE8F0CC4461}"
+  DTS:CreationName="OLEDB">
+  <DTS:PropertyExpression
+    DTS:Name="InitialCatalog">@[$Project::DataWarehouse_InitialCatalog]</DTS:PropertyExpression>
+  <DTS:PropertyExpression
+    DTS:Name="Password">@[$Project::DataWarehouseServerPassword]</DTS:PropertyExpression>
+  <DTS:PropertyExpression
+    DTS:Name="ServerName">@[$Project::DataWarehouse_ServerName]</DTS:PropertyExpression>
+  <DTS:PropertyExpression
+    DTS:Name="UserName">@[$Project::DataWarehouseUserName]</DTS:PropertyExpression>
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=hscusea2sqlD001.database.windows.net;User ID=HarscoAdmin;Initial Catalog=DWHDEV1;Provider=SQLNCLI11.1;Persist Security Info=True;Auto Translate=False;Application Name=SSIS-SSIS2008R2MasterPackageTemplate-{8A6DAF0E-5EA9-4518-A16E-EDE8F0CC4461}localhost.DataWarehouse;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA525E5gMxE0Kypyc/Jq7xZAAAAAACAAAAAAADZgAAwAAAABAAAACgqN6Onv+fZJlpx0rA4yHMAAAAAASAAACgAAAAEAAAAFKC7IyUyN8ge/7fpTKAFyGAAAAAXVfru9NnLOKR6uvGJGyy6sJBff314rPXL7m/76PK7O/QYk3KdWc/naiHFGB0NFXUKKfg2G/cG9OJIjTlJjrI+kAEQQuqWhRglvFpfhp9t/3Yx9dxHXNEpUPfxlFqeNKlO9BGQ9R5NRLl9bONTra2ucSbVnwSCFqwxN2EpuV/xFoUAAAAhTcMji4gnMmT4abIMMrWPaCBCZI=</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

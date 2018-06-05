@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:DelayValidation="True"
+  DTS:ObjectName="Staging"
+  DTS:DTSID="{68DA1430-4604-42B8-8F14-2A561148FB28}"
+  DTS:CreationName="OLEDB">
+  <DTS:PropertyExpression
+    DTS:Name="InitialCatalog">@[$Project::StagingInitialCatalog]</DTS:PropertyExpression>
+  <DTS:PropertyExpression
+    DTS:Name="Password">@[$Project::StagingPassword]</DTS:PropertyExpression>
+  <DTS:PropertyExpression
+    DTS:Name="ServerName">@[$Project::StagingServerName]</DTS:PropertyExpression>
+  <DTS:PropertyExpression
+    DTS:Name="UserName">@[$Project::StagingUsername]</DTS:PropertyExpression>
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=hscusea2sqlD001.database.windows.net;User ID=HarscoAdmin;Initial Catalog=DWHDEV1;Provider=SQLNCLI11.1;Persist Security Info=True;Auto Translate=False;Application Name=SSIS-SSIS2008R2StagingTemplate-{68DA1430-4604-42B8-8F14-2A561148FB28}localhost.AdventureWorks2008R2;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA525E5gMxE0Kypyc/Jq7xZAAAAAACAAAAAAADZgAAwAAAABAAAABuKQpMr1rtkl/L5eE7HrFOAAAAAASAAACgAAAAEAAAAJzFtBNzK6LFS0MNyQwShDCAAAAAoidPzk/JzGSsHXA4OPEsKJ7MNkjrJqCUzqVHwqBgN4e8DvlQ7FPV5VFpwno+Ea4+T+u4epmEVAUhZVu3CPEZqaHERR1PDE4Ef5MDEm6XuJL3oE2t8bzjgQHMi3lZBUharzlyrRvWDg+W4hIOIMpbVChsyb67r8hxxzDnGkP6jAIUAAAAPtRkn6CkvwL5X6cXwbNh8/Mb9EE=</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

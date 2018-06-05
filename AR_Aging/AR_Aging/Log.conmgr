@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:DelayValidation="True"
+  DTS:ObjectName="Log"
+  DTS:DTSID="{9042B986-3BF3-40DC-A170-F5675B1C3396}"
+  DTS:CreationName="OLEDB">
+  <DTS:PropertyExpression
+    DTS:Name="InitialCatalog">@[$Project::StagingInitialCatalog]</DTS:PropertyExpression>
+  <DTS:PropertyExpression
+    DTS:Name="Password">@[$Project::StagingPassword]</DTS:PropertyExpression>
+  <DTS:PropertyExpression
+    DTS:Name="ServerName">@[$Project::StagingServerName]</DTS:PropertyExpression>
+  <DTS:PropertyExpression
+    DTS:Name="UserName">@[$Project::StagingUsername]</DTS:PropertyExpression>
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=hscusea2sqlD001.database.windows.net;User ID=HarscoAdmin;Initial Catalog=DWHDEV1;Provider=SQLNCLI11.1;Persist Security Info=True;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA525E5gMxE0Kypyc/Jq7xZAAAAAACAAAAAAADZgAAwAAAABAAAADyHsPfGpVO8BXrwuljn9yFAAAAAASAAACgAAAAEAAAAFaujen6CTMB723y+iBdXYSAAAAArKh3CGJq9OPW7u7xvp8WVAqtu+dShA0T8eF5tU4n7JvQPJ5p2+eFfk9TxJg4NSM8UdUSKsthecbf4DHDMh46LCFefqagcrdxdIBwmRlc6T0EyQGyL5l3cyUvwGHf79DkKDPn1AM9yI1dFP3MIV0XkQ6ShfhGSVF6t2yr8a2gPH0UAAAA2/kIirp+7XaYcqZOH1PT1fyEK18=</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
