@@ -17,7 +17,7 @@
       DTS:ConnectionString="Data Source=HSCUSEA2WSDSSIS;User ID=HarscoAdmin;Initial Catalog=DWConfig;Provider=SQLNCLI11.1;Persist Security Info=True;Auto Translate=False;Application Name=SSIS-SSIS2008R2StagingTemplate-{164DC0EF-9E77-4AAF-A8A5-3D76C1D3B6DE}localhost.DWConfig;">
       <DTS:Password
         DTS:Name="Password"
-        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA525E5gMxE0Kypyc/Jq7xZAAAAAACAAAAAAADZgAAwAAAABAAAADE2BhkHy4RSYRX2VSa+MKPAAAAAASAAACgAAAAEAAAAE8AzT/usUmqrEAPEogbi8iAAAAAe9X24C/R73eo9CS/kH6LxeoldzLPrV+9e/uYCIya56J3SFMELIp0TNBmmjNQMVs5f4jBVdrIMxmpalDffBRw5IprmHRZN2MFHbdBfP0kJoHax3Mlsv3LDZzyBofhjCiAmbhfCtpNNnJYRja+PjJdYcR9f7PbqTySSvgZ/wH9F1sUAAAAKd+AkRsyxmQbp/V1RHQUHvcbrQI=</DTS:Password>
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA525E5gMxE0Kypyc/Jq7xZAAAAAACAAAAAAADZgAAwAAAABAAAADzgSXstBi0JOQNTKpK4NpVAAAAAASAAACgAAAAEAAAALfTG0F+dxFvTArxt6uoeDeAAAAAjd7H6pa/EdvsW+Dzd98ejex349WZj9KcEradViRnpenx7U1Mkegt7YTKd49OHRb3C65YUvW+E7QeycNSYOA0q0Oe4vbFize8ZoQ3XmzYtHlSEKC6VZ1CmwaCSYL66LAcEVmp7Ve2779IGaaakRieYdvxvUI4R4qHsdFh7c7+TVkUAAAAbRreLJtF9fBONtuBS2alyA/lmMw=</DTS:Password>
     </DTS:ConnectionManager>
   </DTS:ObjectData>
 </DTS:ConnectionManager>
