@@ -17,7 +17,7 @@
       DTS:ConnectionString="Data Source=hscusea2sqlD001.database.windows.net;User ID=HarscoAdmin;Initial Catalog=DWHDEV1;Provider=SQLNCLI11.1;Persist Security Info=True;Auto Translate=False;">
       <DTS:Password
         DTS:Name="Password"
-        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA525E5gMxE0Kypyc/Jq7xZAAAAAACAAAAAAADZgAAwAAAABAAAAAd8ePkSJgUcq1KqvDmVi/BAAAAAASAAACgAAAAEAAAAES5eDT1rMVNbHydM19RDeyAAAAAsHKdpvTEFbPHhXnJWtxEzzrpv9JbgtNqaCS1dpRJao+cGe3Ir8HScJGXVh58qvJhgBePk1o1zujqudMAkQR/E4j5ntV77J0CcVJ8pHmzmzF4Rbbe0r9QRnJZ8p0O+P/n8yHueQByjgdKJCzN69Gisphae2loxkbHX1ZIi+YmZXIUAAAAKDMKkE1W/PuPnYv7uoW5yt4mnH4=</DTS:Password>
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA525E5gMxE0Kypyc/Jq7xZAAAAAACAAAAAAADZgAAwAAAABAAAAAA1saYvDAZc6Oyz1fIA82OAAAAAASAAACgAAAAEAAAAK/ZY4QeWTJrK5qTXalHTLyAAAAAxKCHRBYkxi3d3eZJVgw5Z8IupeUP8jrdLtuUiQgKXsI/Q9x3+E5cAsaRzVeUasGQ5Bxh9beaPZIX6+GYnTicoaLZgK1s+F3dooEZbmhl6flVLfP3B8HZA8XQz/LL1CYtIzYeKnnuiiAsKkzWaa3cU1R2fpO+qtcqrfnaqzQJ5E8UAAAANxRbIU33fNBJeAmoeLy7BEkmqbw=</DTS:Password>
     </DTS:ConnectionManager>
   </DTS:ObjectData>
 </DTS:ConnectionManager>
