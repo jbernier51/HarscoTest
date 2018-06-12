@@ -2,7 +2,7 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>ProductionPackages</Name>
-    <LastWriteTime>2018-06-05T08:32:48.4555822Z</LastWriteTime>
+    <LastWriteTime>2018-06-05T08:27:07.5744975Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
@@ -249,11 +249,6 @@
     <ProjectBuildItemInfo>
       <Name>StagingJDE-DTA-F1202.dtsx</Name>
       <LastWriteTime>2018-06-05T08:27:04.5001901Z</LastWriteTime>
-      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
-    </ProjectBuildItemInfo>
-    <ProjectBuildItemInfo>
-      <Name>_QA.dtsx</Name>
-      <LastWriteTime>2018-06-05T08:32:48.303567Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
